@@ -1,1 +1,1 @@
-wreker: python InstaPPD.py
+wreker: python SarmoniesBot.py
